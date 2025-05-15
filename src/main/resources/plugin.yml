@@ -1,0 +1,4 @@
+name: anyoploot
+version: '1.0'
+main: me.ghostgeorge.anyoploot.Anyoploot
+api-version: '1.21'
